@@ -23,7 +23,7 @@ To make certain the code and application were functional and secure, I ran the p
 
 ### 6. What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
 
-For web application development in general, it is important to keep in mind Certificate Authorities to provide valid certificates for the website on which the application will run. This enables HTTPS and provides a layer of security for users and the organization as a whole. Next, the Maven Dependency Check Tool is valuable when developing Java-based web applications to research known vulnerabilities and potentially record new ones.
+For web application development in general, it is important to keep in mind Certificate Authorities to provide valid certificates for the website on which the application will run. This enables HTTPS and provides a layer of security for users and the organization as a whole. Next, the Maven Dependency Check Tool is valuable when developing Java-based web applications to research known vulnerabilities and potentially record new ones. Another tool that I need to keep in mind for future web development is the implementation of the AES for Client/Server Communication. While SHA-256 is a great tool to check for file integrity it is not itself an encryption standard unlike AES. AES is the standard encryption algorithm for network communication and the most reliable tool to keep networked data secure from external threats from the network while the software developed is secured through secure coding practices.
 
 ### 7. Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
